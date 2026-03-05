@@ -1,7 +1,7 @@
 # Hi, I'm Kenny 👋
 
 CS & Financial Maths @ USYD | Aspiring DS/MLE  
-Interested in Computer Vision (YOLO) + end-to-end ML systems.
+Interested in end-to-end ML systems + Computer Vision (YOLO).
 
 ## 🚀 Featured Projects
 - [airbnb-price-service](https://github.com/kenny1031/airbnb-price-service) — Production-style ML serving system (versioned models + backend architecture)
