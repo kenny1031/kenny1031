@@ -11,7 +11,7 @@ Building end-to-end ML systems + Computer Vision (YOLO).
 
 ## 🧰 Tech Stack
 **ML/CV:** Python, PyTorch, FiftyOne  
-**Backend/Data:** SQL, Docker, Linux, Git  
+**Backend/Data:** SQL, Docker, Git  
 **Also used:** C, Java, R
 
 ## 📌 What I'm focusing on now
