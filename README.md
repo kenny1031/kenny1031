@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Kenny 👋
 
-<!--
-**kenny1031/kenny1031** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS & Financial Maths @ USYD | Aspiring DS/MLE  
+Interested in Computer Vision (YOLO) + end-to-end ML systems.
 
-Here are some ideas to get you started:
+## 🚀 Featured Projects
+- [airbnb-price-service](https://github.com/kenny1031/airbnb-price-service) — Production-style ML serving system (versioned models + backend architecture)
+- [option-pricing-model](https://github.com/kenny1031/option-pricing-model) — Quant finance modeling & experiments
+- (WIP) Illegal parking detection (YOLOv5) — dataset/annotation pipeline + detection
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech Stack
+Python, PyTorch, SQL, Git, Linux, FiftyOne, Docker (learning), C, Java, R
+
+## 📫 Contact
+- Email: kunda031031@gmail.com
