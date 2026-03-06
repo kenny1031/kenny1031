@@ -1,6 +1,6 @@
 # Hi, I'm Kenny 👋
 
-CS & Financial Maths @ USYD | Aspiring DS/MLE  
+CS & Financial Maths @ USYD | Aspiring SWE/MLE  
 Building end-to-end ML systems + Computer Vision (YOLO).
 
 ## 🚀 Featured Projects
