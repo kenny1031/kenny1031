@@ -7,7 +7,7 @@ Building end-to-end ML systems + Computer Vision (YOLO).
 - **[airbnb-price-service](https://github.com/kenny1031/airbnb-price-service)** — Production-style ML serving: model versioning, API, tests, and deploy-ready structure  
   _Tech:_ Python, SQL, Docker, FastAPI (if applicable)
 - **[option-pricing-model](https://github.com/kenny1031/option-pricing-model)** — Quant finance: option pricing + experiments (MC / PDE / calibration if applicable)
-- **(WIP) Helmet detection (YOLOv8)** — Data preprocessing + training/evaluation pipeline (FiftyOne + CVAT)
+- **[Helmet detection (YOLOv8)](https://github.com/kenny1031/cv-helmet-detection-system)** — Data preprocessing + training/evaluation + inference pipeline (FiftyOne + FastAPI + pytest)
 
 ## 🧰 Tech Stack
 **ML/CV:** Python, PyTorch, FiftyOne  
