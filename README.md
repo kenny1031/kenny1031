@@ -6,7 +6,8 @@ Building end-to-end ML systems + Computer Vision (YOLO).
 ## 🚀 Featured Projects
 - **[airbnb-price-service](https://github.com/kenny1031/airbnb-price-service)** — Production-style ML serving: model versioning, API, tests, and deploy-ready structure  
   _Tech:_ Python, SQL, Docker, FastAPI (if applicable)
-- **[option-pricing-model](https://github.com/kenny1031/option-pricing-model)** — Quant finance: option pricing + experiments (MC / PDE / calibration if applicable)
+- **[regime-aware-dynamic-asset-allocation](https://github.com/kenny1031/regime-aware-dynamic-asset-allocation)** — Multi-model quant research pipeline for market regime detection and dynamic asset allocation, combining HMM/GMM/KMeans, XGBoost, LSTM, walk-forward backtesting, and a PPO reinforcement learning prototype  
+  _Tech:_ Python, pandas, scikit-learn, PyTorch, XGBoost, Stable-Baselines3
 - **[Helmet detection (YOLOv8)](https://github.com/kenny1031/cv-helmet-detection-system)** — Data preprocessing + training/evaluation + inference pipeline (FiftyOne + FastAPI + pytest)
 
 ## 🧰 Tech Stack
