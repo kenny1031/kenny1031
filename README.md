@@ -16,8 +16,7 @@ Building end-to-end ML systems + Computer Vision (YOLO).
 **Also used:** C, Java, R
 
 ## 📌 What I'm focusing on now
-- Improving small/occluded object detection performance (data + augmentation + error analysis)
-- Deploying ML models as reliable services (versioning, testing, monitoring)
+- Working on a LLM-powered full-stack system.
 
 ## 📫 Contact
 - Email: kunda031031@gmail.com
