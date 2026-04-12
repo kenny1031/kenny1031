@@ -11,7 +11,7 @@ Building end-to-end ML systems + Computer Vision (YOLO).
 - **[Helmet detection (YOLOv8)](https://github.com/kenny1031/cv-helmet-detection-system)** — Data preprocessing + training/evaluation + inference pipeline (FiftyOne + FastAPI + pytest)
 
 ## 🧰 Tech Stack
-**ML/CV:** Python, PyTorch, FiftyOne  
+**ML/CV:** Python, PyTorch, sklearn, FiftyOne  
 **Backend/Data:** SQL, Docker, Git  
 **Also used:** C, Java, R
 
