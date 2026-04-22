@@ -7,7 +7,7 @@ Building end-to-end ML systems and computer vision projects.
 - **[Airbnb Retrieval Ranking Engine](https://github.com/kenny1031/airbnb-retrieval-ranking-engine)** — Full-stack natural-language Airbnb search system with dense semantic retrieval, structured candidate generation, and an XGBoost learned reranker  
   _Tech:_ Python, FastAPI, PostgreSQL, SQLAlchemy, React, TypeScript, XGBoost, Sentence Transformers, Docker
 
-- **[Geospatial Recommendation System for Site Selection](YOUR_LINK)** — Recommendation system that ranks (area, industry) pairs to answer both “what business to open here” and “where to open this business”, using large-scale location data and spatial features  
+- **[Geospatial Recommendation System for Site Selection](https://github.com/kenny1031/lazysheep)** — Recommendation system that ranks (area, industry) pairs to answer both “what business to open here” and “where to open this business”, using large-scale location data and spatial features  
   _Tech:_ Python, PostgreSQL, SQL, XGBoost, PyTorch, FastAPI
 
 - **[Regime-Aware Dynamic Asset Allocation](https://github.com/kenny1031/regime-aware-dynamic-asset-allocation)** — Multi-model quant research pipeline for market regime detection and dynamic asset allocation, combining HMM/GMM/KMeans, XGBoost, LSTM, walk-forward backtesting, and a PPO reinforcement learning prototype  
