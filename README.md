@@ -17,9 +17,9 @@ A geospatial decision-support system that analyses large-scale location data and
 
 **Tech:** Python, PostgreSQL, SQL, PyTorch, XGBoost, FastAPI, Streamlit
 
-### Smart Support Desk — Work in Progress
+### TactiScope — Work in Progress
 
-A support management platform designed to organise incoming requests, retrieve relevant internal knowledge, assist with response generation, and improve support workflows through automation and analytics.
+A full-stack football tactical analysis copilot that transforms event-level match data into interactive dashboards and LLM-generated tactical reports.
 
 **Focus:** Backend development, data management, information retrieval, workflow automation, and system evaluation
 
